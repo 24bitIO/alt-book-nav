@@ -3,6 +3,6 @@
     "description": "Alternative book navigation",
     "type": "drupal-custom-module",
     "require": {
-        "composer/installers": "^1.9"
+        "composer/installers": "^2.0"
     }
 }
